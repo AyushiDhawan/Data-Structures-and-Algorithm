@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
 | [0912-sort-an-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
