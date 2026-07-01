@@ -40,8 +40,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
