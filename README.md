@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
 | [0912-sort-an-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0912-sort-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0509-fibonacci-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Matrix
 |  |
 | ------- |
