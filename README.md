@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0048-rotate-image) |
 | [0912-sort-an-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0912-sort-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0031-next-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
