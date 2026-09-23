@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -77,5 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AyushiDhawan/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
